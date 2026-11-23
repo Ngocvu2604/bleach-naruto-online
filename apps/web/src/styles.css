@@ -5,3 +5,7 @@
 .game-stage:fullscreen .game-toolbar,.game-stage:fullscreen .game-status{display:none}
 
 .game-stage.is-expanded{position:fixed;inset:0;z-index:100;width:100vw;height:100dvh;max-width:none;margin:0;border:0;border-radius:0;display:flex;align-items:center;justify-content:center;background:#000}.game-stage.is-expanded .ruffle-mount{width:min(100vw,calc(100dvh * 4 / 3));flex-shrink:0}.game-stage.is-expanded .game-toolbar,.game-stage.is-expanded .game-status{display:none}
+.training-card{background:linear-gradient(115deg,#17212b,#13151c 80%)}
+.training-card .card-top,.training-card .card-bottom{color:#69baf4}
+.empty-roster{text-align:center;color:#738094!important;margin:30px 0!important}
+.game-error{max-width:1000px;margin:14px auto 0;padding:12px 14px;text-align:center;border:1px solid #ff675466;background:#ff675411;color:#ff9d8e;border-radius:5px;font-size:13px}

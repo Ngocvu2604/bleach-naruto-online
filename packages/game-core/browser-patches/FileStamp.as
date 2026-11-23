@@ -1,0 +1,1 @@
+package net.play5d.game.obvn.utils.air { public class FileStamp { public static function stamp(url:String):String { return url; } } }

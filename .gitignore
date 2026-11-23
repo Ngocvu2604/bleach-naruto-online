@@ -1,0 +1,11 @@
+node_modules/
+dist/
+vendor/
+tools/
+apps/web/public/game/
+apps/web/public/ruffle/
+apps/web/public/art/
+*.log
+*.tsbuildinfo
+.env*
+!.env.example

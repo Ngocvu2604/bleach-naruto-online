@@ -1,0 +1,23 @@
+{
+  "scriptCount": 217,
+  "unchangedScripts": 214,
+  "changedScripts": [
+    "FighterTester.as",
+    "net/play5d/game/obvn/ctrler/GameLoader.as",
+    "net/play5d/game/obvn/utils/air/FileStamp.as"
+  ],
+  "display": {
+    "original": [
+      1000,
+      600
+    ],
+    "browser": [
+      800,
+      600
+    ]
+  },
+  "timingUnchanged": true,
+  "nonCodeTagsUnchanged": true,
+  "assetFilesUnchanged": 148,
+  "limitation": "Identical decompilation of untouched classes and identical non-code tags; runtime frame-by-frame equivalence still requires reference AIR comparison."
+}

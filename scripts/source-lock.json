@@ -1,0 +1,4 @@
+{
+  "game": {"repository":"https://github.com/5DPLAY-Game-Studio/OpenBleachVsNaruto.git","commit":"e3bc6092e1f62213bcdc3c34664cb2da2d2a6b8a","release":"RELEASE_20261031","url":"https://github.com/5DPLAY-Game-Studio/OpenBleachVsNaruto/releases/download/RELEASE_20261031/swf_output.rar","sha256":"29bde3c5480067319b02b0e9a6847afc3bf1d54a4bfdc2a9dadc4bf15c61d373"},
+  "ffdec":{"version":"26.5.0","url":"https://github.com/jindrapetrik/jpexs-decompiler/releases/download/version26.5.0/ffdec_26.5.0.zip","sha256":"8d00c2713a724bb3f7e6c9a64994836ce3a953b5ac264f405d98f92e7c266d33"}
+}

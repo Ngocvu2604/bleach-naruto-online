@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-11-23T12:58:37.966Z",
+  "original": "7440633485d4785e1b017c729e9f8386fb9c6dca60c2d2f60b889aac88276035",
+  "patched": "50d06f69ac781715c2bebe68399b3f9d050e7a5232a00756c9ee6a75a35cba56",
+  "display": {
+    "original": [
+      1000,
+      600
+    ],
+    "browser": [
+      800,
+      600
+    ]
+  },
+  "timingUnchanged": true,
+  "beforeTags": 28,
+  "afterTags": 28,
+  "changedTags": [
+    {
+      "code": 82,
+      "name": "Frame1"
+    }
+  ],
+  "characters": 58
+}

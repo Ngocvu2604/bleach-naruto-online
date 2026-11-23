@@ -10,7 +10,10 @@
     "test": "node --test scripts/*.test.mjs",
     "prepare:game": "node scripts/prepare-game.mjs",
     "setup": "node scripts/setup.mjs",
-    "verify:game": "node scripts/verify-game.mjs"
+    "verify:game": "node scripts/verify-game.mjs",
+    "prebuild": "node scripts/prepare-web-assets.mjs",
+    "postbuild": "node scripts/check-web-build.mjs",
+    "assets:manifest": "node scripts/write-web-assets-manifest.mjs"
   },
   "dependencies": {
     "@ruffle-rs/ruffle": "0.8.0",

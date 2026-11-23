@@ -2,9 +2,13 @@ node_modules/
 dist/
 vendor/
 tools/
-apps/web/public/game/
+apps/web/public/game/*
+!apps/web/public/game/assets/
+!apps/web/public/game/bvn-3.4-browser.swf
+!apps/web/public/game/characters.json
+!apps/web/public/game/LICENSE-GPL-3.0.txt
 apps/web/public/ruffle/
-apps/web/public/art/
+.vercel/
 *.log
 *.tsbuildinfo
 .env*

@@ -1,0 +1,3 @@
+# Preserve official asset checksums across Windows and Vercel's Linux checkout.
+apps/web/public/game/** -text
+apps/web/public/art/** -text

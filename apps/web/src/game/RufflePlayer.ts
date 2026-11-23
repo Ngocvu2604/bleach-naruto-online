@@ -12,7 +12,7 @@ declare global { interface Window { RufflePlayer?: { newest(): { createPlayer():
 export class RufflePlayer {
   readonly element: RuffleElement;
   constructor(container: HTMLElement) {
-    if (!window.RufflePlayer?.newest) throw new Error('Không thể tải Ruffle. Chạy npm run prepare:game và tải lại trang.');
+    if (!window.RufflePlayer?.newest) throw new Error('Máy chủ chưa cung cấp trình chạy Ruffle. Hãy tải lại trang; nếu lỗi còn xuất hiện, quản trị viên cần triển khai lại đầy đủ tài nguyên game.');
     this.element = window.RufflePlayer.newest().createPlayer();
     this.element.setAttribute('aria-label', 'Bleach vs Naruto 3.4');
     this.element.tabIndex = 0;

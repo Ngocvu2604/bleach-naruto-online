@@ -63,4 +63,3 @@ No server/shared scaffolding is added for unimplemented future phases. Phase 2 w
 Game: 剑jian / **5DPLAY Game Studio**. [Official source](https://github.com/5DPLAY-Game-Studio/OpenBleachVsNaruto), GPL-3.0. Wrapper: GPL-3.0-or-later; see LICENSE. Ruffle: MIT OR Apache-2.0. JPEXS: GPL-3.0. Original portraits were extracted from the official `face.swf`, not generated or taken from unknown sources.
 
 Anime artwork, brands, voices, music and other third-party asset rights have not been independently cleared. No public deployment has been performed. See SOURCE-AUDIT before distribution.
-
